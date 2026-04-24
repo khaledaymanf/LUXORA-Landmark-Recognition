@@ -1,4 +1,4 @@
-# LUXORA-Landmark-Recognition
+# 🏛️ LUXORA: AI-Powered Egyptian Landmark Recognition
 **LUXORA** is a deep learning-based project designed to identify and classify prominent ancient Egyptian landmarks in Luxor. Using state-of-the-art Computer Vision techniques, the project provides a seamless bridge between cultural heritage and modern technology, deployed via a Flutter mobile application and a Streamlit web interface.
 
 ---
