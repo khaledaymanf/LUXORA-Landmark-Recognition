@@ -6,7 +6,6 @@
 ## 📸 Key Features
 * **High Accuracy Recognition:** Powered by the **ConvNeXt** architecture.
 * **Real-time Inference:** Optimized for mobile using **TFLite**.
-* **Robust Predictions:** Implements **Test-Time Augmentation (TTA)** for better results in varying light and angles.
 * **User-Friendly Interfaces:** Available on both Mobile (Flutter) and Web (Streamlit).
 
 ---
